@@ -4,6 +4,8 @@
 require_once "config.php";
  
 /* Definir les variables */
+
+/* Definir les variables */
 $nom = $ecole = $age = "";
 $name_err = $ecole_err = $age_err = "";
  
