@@ -1,7 +1,6 @@
 <?php
 /* Inclure le fichier config */
 
-/* verifiez les erreurs avant enregistrement */
 require_once "config.php";
  
 /* Definir les variables */
